@@ -1,0 +1,11 @@
+{
+  "name": "lesson1",
+  "version": "1.0.0",
+  "description": "week 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "author": "Gavin Hart",
+  "license": "ISC"
+}
